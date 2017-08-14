@@ -14,6 +14,7 @@ Steps to create the code:
   "devDependencies": {
     "nodemon": "^1.11.0"
   }
-  
+4. Keep Mongodb instance, create "blinkDB" database.
+5. Run nodemon/node api-server.js 
   
 
