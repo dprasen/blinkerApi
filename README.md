@@ -1,6 +1,6 @@
 # blinkerApi
 nodejs based blinker api
-#########################
+
 Steps to create the code:
 1. CD <Project Directory>
 2. Run npn init, enter detials or follow defaults
